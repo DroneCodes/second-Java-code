@@ -8,5 +8,9 @@ public class Main {
         String Fisayo = "Fisayo";
         System.out.println(Fisayo);
 
+        int man = 1+1;
+        System.out.println(man);
+
+
     }
 }
